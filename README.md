@@ -15,4 +15,5 @@ Upon clicking the red "Generate Password" button, the user will be prompted to a
 ## Deployment
 Github Repository Link: https://github.com/edwardlui1/password-generator
 
-Live Deployment Link: 
+Live Deployment Link: https://edwardlui1.github.io/password-generator/
+
